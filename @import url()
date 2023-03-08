@@ -1,0 +1,28 @@
+
+body{
+background-color:yellow;
+}
+p{
+	font-size:50px;
+	color:red;
+	font-family: 'Cormorant Infant',serif;
+}
+.first{
+font-family: 'Cormorant Infant', serif;
+}
+.second{
+font-family: 'Amatic SC', serif;
+color:pink;
+}
+.third{
+font-family: 'Cormorant Infant', serif;	
+}
+.f1{
+font-size:2em;
+font-family: 'Cormorant Infant', serif;
+font-family: 'Rubik Mono One', sans-serif;
+color:red;
+fant-style:italic;	
+}
+
+

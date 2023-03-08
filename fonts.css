@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@500&family=Rubik+Mono+One&display=swap');
+body{
+background-color:pink;
+}
+p{
+	font-size:50px;
+	color:red;
+	font-family: 'Cormorant Infant',serif;
+}
+.first{
+font-family: 'Cormorant Infant', serif;
+letter-spacing: 5px;
+}
+.second{
+font-family: 'Rubik Mono One', sans-serif;
+color:pink;
+}
+.third{
+font-family: 'Cormorant Infant', serif;	
+}
+.f1{
+font-size:2em;
+font-family: 'Rubik Mono One', sans-serif;
+color:red;
+font-style:italic;	
+}
+.underline{
+text-decoration: underline;
+text-decoration-style: wavy; 
+text-decoration-color: blue;
+ text-underline-position: under;
+}
+.shadowl{
+text-shadow: 3px -3px 10px maroon;
+font-weight: 900;
+}
+
